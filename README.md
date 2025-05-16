@@ -1,0 +1,11 @@
+E-Commerce Listings App
+=======================
+
+This is a simple React-based e-commerce product listing application.
+
+Features:
+---------
+- Displays a list of products with images, descriptions, categories, and prices.
+- Filter products by category using a dropdown menu.
+- Responsive and modern UI.
+- Product images are stored in the public/ directory.
